@@ -1,7 +1,7 @@
 import assets from "@/assets";
 import React from "react";
 import Marquee from "react-fast-marquee";
-import Image from "next/image"; // Import the Next.js Image component
+import Image from "next/image";
 
 const ClientProjects = () => {
   return (

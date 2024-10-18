@@ -3,6 +3,7 @@ import HomePage from "./components/Banner";
 import Navbar from "./components/Navbar";
 
 import ClientCarousel from "./components/ClientProjects";
+import AboutMe from "./components/AboutMe";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
           <ClientCarousel />
         </div>
       </div>
+      <AboutMe />
     </main>
   );
 };

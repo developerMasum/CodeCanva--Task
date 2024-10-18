@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className="block md:hidden">
           <p
             onClick={toggleDropdown}
-            className="text-blue-300  px-4 py-2 rounded-lg hover:text-blue-800"
+            className="text-white  px-4 py-2 rounded-lg hover:text-blue-800"
           >
             <FiMenu />
           </p>
